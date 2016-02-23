@@ -3,10 +3,10 @@
 ##Description
 A multilingual reference of localities in Switzerland.
 
-The data contained in this repository is intended for general use. It contains a list of localities (cities, towns, villages) 
-in Switzerland, with the locality's name in each of the Swiss official languages, plus English. It also contains a postal 
-code for each entry, mainly for corroboration of the name, and a two-letter code to indicate the canton in which the locality 
-lies.
+The data contained in this repository is intended for general use. It contains an (**as yet incomplete**) list of localities 
+(cities, towns, villages) in Switzerland, with the locality's name in each of the Swiss official languages, plus English. 
+It also contains a postal code for each entry, mainly for corroboration of the name, and a two-letter code to indicate 
+the canton in which the locality lies.
 
 The original data set for this repository was drawn from the website at http://www.bahn-bus-ch.de/sprachen/orte.html on 
 23rd February 2016 and converted to a tab-separated file. The original data was formerly updated on 2nd January 2011.
