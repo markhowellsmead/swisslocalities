@@ -16,7 +16,7 @@ welcome: please fork the repository, make your modifications, and send them back
 the file is sorted by the first column - i.e. the German name of the locality.
 
 ##Author
-Mark Howells-Mead | www.permanenttourist.ch | Since 23rd February 2016.
+Mark Howells-Mead | www.permanenttourist.ch and www.frappant.ch | Since 23rd February 2016.
 
 ##License
 Use this code freely, widely and for free. Provision of this code provides and implies no guarantee.
